@@ -1,7 +1,7 @@
 # University Admission Prediction system
 
 College Admission Predictor System is a web based
-application system in which students can register their marks along with their personal information. This helps to predict their admissions in colleges.
+application system in which students can register their marks along with their personal information. This helps to predict their admissions in colleges. 
 
 ## video demonstration link
 
